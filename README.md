@@ -18,6 +18,8 @@ paq config add-repo "https://github.com/Saverio976/paq-packages1/releases/latest
 - [fastfetch](./packages/fastfetch)
 - [fd](./packages/fd)
 - [gping](./packages/gping)
+- [hyperfine](./packages/hyperfine)
 - [ripgrep](./packages/ripgrep)
+- [uv](./packages/uv)
 - [zellij](./packages/zellij)
 - [zoxide](./packages/zoxide)
